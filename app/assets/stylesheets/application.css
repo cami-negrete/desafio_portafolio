@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+ .btn-purple{
+    background: #2f0042;
+    color:#fff;
+ }
+ .btn-purple:hover{
+    background: #4d0968;
+    color:#fff;
+ }
+
